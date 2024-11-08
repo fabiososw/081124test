@@ -3,17 +3,19 @@
 body {
     font-family: "Noto Sans", sans-serif;
 };
-.container-custom {
-    width: 50%;
-    margin: 0 auto;
-  }
-.container-custom-2 {
-    width: 70%;
-    margin: 0 auto;
-  }
   .input-group {
     margin-bottom: 1.5rem;
   }
   .clear-div {
     clear: both;
   }
+  @media (min-width: 768px) {
+    .container-custom {
+        width: 50%;
+    margin: 0 auto;
+  }
+  .container-custom-2 {
+    width: 70%;
+    margin: 0 auto;
+  }
+    }
