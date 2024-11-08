@@ -8,6 +8,9 @@
 // 3. Include remainder of required Bootstrap stylesheets (including any separate color mode stylesheets)
 @import "../variables";
 @import "../variables-dark";
+$form-switch-checked-color:  $dark;
+$form-switch-focus-color: $dark;
+$form-switch-width: 3em;
 
 // 4. Include any default map overrides here
 
