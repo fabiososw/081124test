@@ -11638,4 +11638,8 @@ body {
 
 .input-group {
   margin-bottom: 1.5rem;
+}
+
+.clear-div {
+  clear: both;
 }/*# sourceMappingURL=style.css.map */
