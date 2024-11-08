@@ -1,1 +1,5 @@
-@import "./bootstrap/partial-overrides/bootstrap-overrides"
+@import "./bootstrap/partial-overrides/bootstrap-overrides";
+
+body {
+    font-family: "Noto Sans", sans-serif;
+};
